@@ -46,4 +46,5 @@ colours = [
 
 
 for item, colours in colour_counts.items():
-    #colour_counts["blue"] = 2
+    #colour_counts["blue"] += 1
+    
